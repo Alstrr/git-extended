@@ -1,0 +1,13 @@
+{
+    "name": "git-extended",
+    "version": "1.0.0",
+    "description": "Git repo for educational purposes",
+    "main": "index.js",
+    "repository": "git@github.com:Alstrr/git-extended.git",
+    "author": "Klimenko Alena <1132246741@pfur.ru>",
+    "license": "CC-BY-4.0",
+    "config": {
+        "commitizen": {
+            "path": "cz-conventional-changelog"
+        }
+    }  
